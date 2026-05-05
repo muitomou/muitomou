@@ -1,10 +1,10 @@
 ### Hola, soy Mauro 👋
 
 Soy estudiante de Ingeniería Civil Informática en la **Universidad Técnica Federico Santa María (UTFSM)**. 
-Me apasiona resolver problemas complejos y actualmente estoy profundizando en **Machine Learning** y **Procesamiento de Lenguaje Natural (NLP)**.
+Me apasiona resolver problemas complejos.
 
 - 🔭 Intereses principales: **Modelos generativos**, **algoritmos de búsqueda** y **NLP**.
-- 🌱 Aprendiendo sobre: Arquitecturas Transformer y MLOps.
+- 🌱 Aprendiendo sobre: Arquitecturas Transformer.
 - 🎓 Mis fuertes: Algoritmos, Lógica y Estructuras de Datos (C++ / Python).
 
 
